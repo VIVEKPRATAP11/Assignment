@@ -2,7 +2,7 @@
 
 A modern React calendar application featuring a clean interface for viewing and managing events. Built with React, Tailwind CSS, and dayjs.
 
-![Calendar App Screenshot](/calendar-app//public/image.png)
+![Calendar App Screenshot](/calendar-app/public/image.png)
 
 ## Features
 
